@@ -7,5 +7,5 @@ I'm always learning something new
 
 
 #### Contact
-    -jjesussh@gmail.com
-    -Linkedin
+   * [email] - Email
+   * [Linkedin] - Linkedin
