@@ -12,4 +12,4 @@ I'm always learning something new
    
    
    [email]: <jjesussh@gmail.com>
-   [Linkedin]: <www.linkedin.com/in/jesus-silva->
+   [Linkedin]: <https://www.linkedin.com/in/jesus-silva->
