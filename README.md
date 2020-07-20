@@ -11,4 +11,5 @@ I'm always learning something new
    * [Linkedin] - Linkedin
    
    
-   [email]: <https://github.com/Jpepe>
+   [email]: <jjesussh@gmail.com>
+   [Linkedin] <https://www.linkedin.com/in/jose-de-jesus-silva-hernandez-361224a5/>
