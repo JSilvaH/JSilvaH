@@ -11,5 +11,5 @@ I'm always learning something new
    * [Linkedin] - Linkedin
    
    
-   [email]: <jjesussh@gmail.com>
+   [email]: <josesilva.hrdz31@gmail.com>
    [Linkedin]: <https://www.linkedin.com/in/jesus-silva->
