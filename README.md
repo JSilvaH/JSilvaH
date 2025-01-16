@@ -13,8 +13,7 @@ I'm always learning something new
    
    [email]: <josesilva.hrdz31@gmail.com>
    [Linkedin]: <https://www.linkedin.com/in/jesus-silva->
-   ![JSilvaH's GitHub stats](https://raw.githubusercontent.com/JSilvaH/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-   ![Top Langs](https://raw.githubusercontent.com/JSilvaH/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  
 
 ### Currently learning
 - Jetpack Compose
